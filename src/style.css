@@ -282,9 +282,15 @@ h4{
 }
 
 p{
-    margin: 10px;
+    margin: 8px;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 12px;
     color: #515151;
+}
+
+.infos{
+    width: 196px;
+    height: 89px;
+
 }
